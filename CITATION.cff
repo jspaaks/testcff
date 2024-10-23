@@ -126,17 +126,47 @@ references:
       value: "https://stac-extensions.github.io/mlm/"
       description: "Generic URL of the MLM extension schema versions for 'stac_extensions' references."
 
-  #- type: software-code
-  #  title: "Archive repository of the STAC MLM specification."
-  #  repository-code: "https://github.com/crim-ca/mlm-extension"
-  #  authors: *authors
-  #  identifiers:
-  #  - type: url
-  #    value: "https://crim-ca.github.io/mlm-extension/v1.3.0/schema.json"
-  #    description: "Archive extension URL used in 'stac_extensions' references."
-  #  - type: url
-  #    value: "https://crim-ca.github.io/mlm-extension/"
-  #    description: "Generic URL of the archived MLM extension schema versions for 'stac_extensions' references."
+  - type: software-code
+    title: "Archive repository of the STAC MLM specification."
+    repository-code: "https://github.com/crim-ca/mlm-extension"
+    authors:
+      - given-names: Francis
+        family-names: Charette-Migneault
+        alias: fmigneault
+        email: francis.charette-migneault@crim.ca
+        affiliation: Computer Research Institute of Montréal (CRIM)
+        orcid: "https://orcid.org/0000-0003-4862-3349"
+      - given-names: Ryan
+        family-names: Avery
+        alias: rbavery
+        email: ryan@wherobots.com
+        affiliation: "Wherobots, Inc."
+        orcid: "https://orcid.org/0000-0001-7392-1474"
+      - name: Computer Research Institute of Montréal
+        city: Montréal
+        region: Québec
+        alias: CRIM
+        website: "https://www.crim.ca/"
+        email: info@crim.ca
+        tel: 1 (514) 840-1234
+        country: CA
+        post-code: H3N 1M3
+        address: "101 – 405, avenue Ogilvy"
+      - name: "Wherobots, Inc."
+        address: 350 California St
+        city: San Francisco
+        country: US
+        post-code: "94104"
+        region: California
+        website: "https://www.wherobots.ai/"
+        location: Floor 1 - Lincoln Towne Center
+    identifiers:
+    - type: url
+      value: "https://crim-ca.github.io/mlm-extension/v1.3.0/schema.json"
+      description: "Archive extension URL used in 'stac_extensions' references."
+    - type: url
+      value: "https://crim-ca.github.io/mlm-extension/"
+      description: "Generic URL of the archived MLM extension schema versions for 'stac_extensions' references."
 
   - type: report
     title: Project CCCOT03 – Technical Report
