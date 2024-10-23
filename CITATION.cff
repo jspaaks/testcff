@@ -185,7 +185,17 @@ references:
       - en
     doi: "10.13140/RG.2.2.27858.68804"
     url: "https://www.researchgate.net/publication/349003427"
-    #institution: *crim
+    institution: 
+      name: Computer Research Institute of Montréal
+      city: Montréal
+      region: Québec
+      alias: CRIM
+      website: "https://www.crim.ca/"
+      email: info@crim.ca
+      tel: 1 (514) 840-1234
+      country: CA
+      post-code: H3N 1M3
+      address: "101 – 405, avenue Ogilvy"
     authors:
       - given-names: Francis
         family-names: Charette-Migneault
