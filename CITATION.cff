@@ -161,34 +161,34 @@ references:
         country: CA
         website: "https://natural-resources.canada.ca/research-centres-and-labs/canada-centre-for-mapping-and-earth-observation/25735"
 
-  #- type: conference
-  #  notes: Conference reference where the demo paper presenting MLM is published.
-  #  title: "GeoSearch’24: Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data"
-  #  conference:
-  #    name: "SIGSPATIAL’24: The 32nd ACM International Conference on Advances in Geographic Information Systems"
-  #    date-start: "2024-10-29"
-  #    date-end: "2024-11-01"
-  #    city: Atlanta
-  #    region: Georgia
-  #    country: US
-  #  url: https://dl.acm.org/doi/proceedings/10.1145/3681769
-  #  isbn: "979-8-4007-1148-0"
-  #  date-published: "2024-10-29"
-  #  publisher:
-  #    name: "Association for Computing Machinery"
-  #  authors:
-  #    - given-names: Hao
-  #      family-names: Li
-  #    - given-names: Abhishek
-  #      family-names: Potnis
-  #    - given-names: Wenwen
-  #      family-names: Li
-  #    - given-names: Dalton
-  #      family-names: Lunga
-  #    - given-names: Martin
-  #      family-names: Werner
-  #    - given-names: Andreas
-  #      family-names: Züfle
+  - type: conference
+    notes: Conference reference where the demo paper presenting MLM is published.
+    title: "GeoSearch’24: Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data"
+    conference:
+      name: "SIGSPATIAL’24: The 32nd ACM International Conference on Advances in Geographic Information Systems"
+      date-start: "2024-10-29"
+      date-end: "2024-11-01"
+      city: Atlanta
+      region: Georgia
+      country: US
+    url: https://dl.acm.org/doi/proceedings/10.1145/3681769
+    isbn: "979-8-4007-1148-0"
+    date-published: "2024-10-29"
+    publisher:
+      name: "Association for Computing Machinery"
+    authors:
+      - given-names: Hao
+        family-names: Li
+      - given-names: Abhishek
+        family-names: Potnis
+      - given-names: Wenwen
+        family-names: Li
+      - given-names: Dalton
+        family-names: Lunga
+      - given-names: Martin
+        family-names: Werner
+      - given-names: Andreas
+        family-names: Züfle
 
 preferred-citation:
   type: conference-paper
