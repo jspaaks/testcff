@@ -30,7 +30,7 @@ contact:
     email: ryan@wherobots.com
     affiliation: "Wherobots, Inc."
     orcid: "https://orcid.org/0000-0001-7392-1474"
-authors: &authors
+authors:
   - given-names: Francis
     family-names: Charette-Migneault
     alias: fmigneault
@@ -43,8 +43,7 @@ authors: &authors
     email: ryan@wherobots.com
     affiliation: "Wherobots, Inc."
     orcid: "https://orcid.org/0000-0001-7392-1474"
-  - &crim
-    name: Computer Research Institute of Montréal
+  - name: Computer Research Institute of Montréal
     city: Montréal
     region: Québec
     alias: CRIM
