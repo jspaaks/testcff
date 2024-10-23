@@ -64,12 +64,11 @@ authors: &authors
     location: Floor 1 - Lincoln Towne Center
 
 references:
-  - type: article
-    title: "dummy"
-    authors:
-      - given-names: Ryan
-        family-names: Avery
-
+   - type: article
+     title: "dummy"
+     authors: 
+      - given-names: "Firstnames"
+        family-names: "Famnames"
   #- type: software-code
   #  title: "A PydanticV2 and PySTAC validation and serialization library for the STAC ML Model Extension"
   #  keywords:
@@ -218,8 +217,8 @@ preferred-citation:
     - en
   abstract: >-
     The Machine Learning Model (MLM) extension is a
-    Catalogs (STAC) framework to catalog machine learning
     specification that extends the SpatioTemporal Asset
+    Catalogs (STAC) framework to catalog machine learning
     models. This demo paper introduces the goals of the MLM,
     highlighting its role in improving
     searchability and reproducibility of geospatial models.
