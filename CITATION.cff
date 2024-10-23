@@ -64,31 +64,31 @@ authors: &authors
     location: Floor 1 - Lincoln Towne Center
 
 references:
-   - type: article
-     title: "dummy"
-     authors: 
+  - type: article
+    title: "dummy"
+    authors: 
       - given-names: "Firstnames"
         family-names: "Famnames"
-  #- type: software-code
-  #  title: "A PydanticV2 and PySTAC validation and serialization library for the STAC ML Model Extension"
-  #  keywords:
-  #    - stac_model
-  #  repository-code: "https://github.com/stac-extensions/mlm/tree/main/stac_model"
-  #  repository-artifact: "https://pypi.org/project/stac-model/"
-  #  url: "https://github.com/stac-extensions/mlm/blob/main/README_STAC_MODEL.md"
-  #  authors:
-  #    - given-names: Ryan
-  #      family-names: Avery
-  #      alias: rbavery
-  #      email: ryan@wherobots.com
-  #      affiliation: "Wherobots, Inc."
-  #      orcid: "https://orcid.org/0000-0001-7392-1474"
-  #    - given-names: Francis
-  #      family-names: Charette-Migneault
-  #      alias: fmigneault
-  #      email: francis.charette-migneault@crim.ca
-  #      affiliation: Computer Research Institute of Montréal (CRIM)
-  #      orcid: "https://orcid.org/0000-0003-4862-3349"
+  - type: software-code
+    title: "A PydanticV2 and PySTAC validation and serialization library for the STAC ML Model Extension"
+    keywords:
+      - stac_model
+    repository-code: "https://github.com/stac-extensions/mlm/tree/main/stac_model"
+    repository-artifact: "https://pypi.org/project/stac-model/"
+    url: "https://github.com/stac-extensions/mlm/blob/main/README_STAC_MODEL.md"
+    authors:
+      - given-names: Ryan
+        family-names: Avery
+        alias: rbavery
+        email: ryan@wherobots.com
+        affiliation: "Wherobots, Inc."
+        orcid: "https://orcid.org/0000-0001-7392-1474"
+      - given-names: Francis
+        family-names: Charette-Migneault
+        alias: fmigneault
+        email: francis.charette-migneault@crim.ca
+        affiliation: Computer Research Institute of Montréal (CRIM)
+        orcid: "https://orcid.org/0000-0003-4862-3349"
 
   #- type: standard
   #  title: STAC MLM specification
