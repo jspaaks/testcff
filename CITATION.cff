@@ -90,16 +90,16 @@ references:
         affiliation: Computer Research Institute of Montréal (CRIM)
         orcid: "https://orcid.org/0000-0003-4862-3349"
 
-  #- type: standard
-  #  title: STAC MLM specification
-  #  authors: *authors
-  #  identifiers:
-  #  - type: url
-  #    value: "https://stac-extensions.github.io/mlm/v1.3.0/schema.json"
-  #    description: "Latest extension URL used in 'stac_extensions' references."
-  #  - type: url
-  #    value: "https://stac-extensions.github.io/mlm/"
-  #    description: "Generic URL of the MLM extension schema versions for 'stac_extensions' references."
+  - type: standard
+    title: STAC MLM specification
+    authors: *authors
+    identifiers:
+    - type: url
+      value: "https://stac-extensions.github.io/mlm/v1.3.0/schema.json"
+      description: "Latest extension URL used in 'stac_extensions' references."
+    - type: url
+      value: "https://stac-extensions.github.io/mlm/"
+      description: "Generic URL of the MLM extension schema versions for 'stac_extensions' references."
 
   #- type: software-code
   #  title: "Archive repository of the STAC MLM specification."
